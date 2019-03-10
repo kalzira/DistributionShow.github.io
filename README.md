@@ -4,25 +4,6 @@
 ## Descirption
 
 >Online Law Consulant is a web application that helps citizens easily get legal consulting from qualified lawyers, and for lawyers - find new clients and interact effectively with them. 
-
----
-
-**Badges will go here**
-
-- build status
-- issues (waffle.io maybe)
-- devDependencies
-- npm package
-- coverage
-- slack
-- downloads
-- gitter chat
-- license
-- etc.
-
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![Code Climate](http://img.shields.io/codeclimate/github/badges/badgerbadgerbadger.svg?style=flat-square)](https://codeclimate.com/github/badges/badgerbadgerbadger) [![Github Issues](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/issues.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/pulls.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/pulls) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
-
-
 ---
 
 ## Table of Contents 
@@ -45,7 +26,7 @@
 - IE10, IE11, Firefox, Safari, Opera, Chrome Web Browsers
 - Internet connection
 
-#### Quick Start
+   #### Quick Start
 
   >`link to website`  Website at <a href="http://lawconsultant.com" target="_blank">`lawconsultant.com`</a>
 
@@ -86,7 +67,7 @@
 ## How To Use?
 >Some Screenshots wiil be here
 
-## Tests (Optional)
+## Tests 
 
 
 
@@ -95,17 +76,27 @@
 ## Contributors
 
 
-- Gulzat Umetalieva Project Manager(PM), Front-End Developer gulzat.umetaliev@iaau.edu.kg 
-    @kalzira
-- Kalzira Sabytakunova Requirement Engineer                  kalzira.sabytakunova@iaau.edu.kg <br>
-- Alina Zhakypova Tester                                     alina.zhakypova@iaau.edu.kg  <br>
-- Zhamiila Kartanbaeva Tester                                zhamiila.kartanbaeva@iaau.edu.kg <br> 
-- Akzholtoi Kanimetova Designer, Front-End Developer  akzholtoi.kanimetova@iaau.edu.kg <br>
-- Nuriddin Kadyrov Front-End Developer                nuriddin.kadyrov@iaau.edu.kg <br>
-- Eridan Sarygulov Back-End Developer                 eridan.sarygulov@iaau.edu.kg <br>
-- Aba-Bakri Ibragimov Back-End Developer              ababakri.ibragimov@iaau.edu.kg <br>
-- Abdygany Isaev Back-End Developer                   abdygany.isaev@iaau.edu.kg 
+- Gulzat Umetalieva - <font color="darkred">**Project Manager**</font>
+<font color="green"> 
+	- *gulzat.umetaliev@iaau.edu.kg*</font>
 
+- Kalzira Sabytakunova - <font color="darkred">**Requirement Engineer**</font>                 <font color="green">
+	- *kalzira.sabytakunova@iaau.edu.kg*</font>
+- Zhamiila Kartanbaeva - <font color="darkred">**Tester**</font>
+<font color="green"> 
+	- *zhamiila.kartanbaeva@iaau.edu.kg*</font>
+- Akzholtoi Kanimetova - <font color="darkred">**Designer, Front-End Developer**</font>                 <font color="green">
+	- *akzholtoi.kanimetova@iaau.edu.kg*</font>
+- Nuriddin Kadyrov - <font color="darkred">**Front-End Developer**</font>
+<font color="green"> 
+	- *nuriddin.kadyrov@iaau.edu.kg*</font>
+
+- Eridan Sarygulov - <font color="darkred">**Back-End Developer**</font>                 <font color="green">
+	- *eridan.sarygulov@iaau.edu.kg*</font>
+- Aba-Bakri Ibragimov - <font color="darkred">**Back-End Developer**</font>                 <font color="green">
+	- *ababakri.ibragimov@iaau.edu.kg*</font>
+- Abdygany Isaev - <font color="darkred">**Back-End Developer**</font>                 <font color="green">
+	- *abdygany.isaev@iaau.edu.kg*</font>
 
 
 ---

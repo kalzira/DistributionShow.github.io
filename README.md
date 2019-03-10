@@ -57,7 +57,9 @@
 - Java EE, Spring Boot Framework, Maven dependencies
 - Spring Security, Thymleaf template engine
 - MySQL DataBase Server
-
+  
+  
+  
 
 - HTML5 and CSS3
 - Bootstrap 3
@@ -76,19 +78,16 @@
 ## Contributors
 
 
-- Gulzat Umetalieva - <font color="darkred">**Project Manager**</font>
-<font color="green"> 
+- Gulzat Umetalieva - <font color="darkred">**Project Manager**</font>                     <font color="green"> 
 	- *gulzat.umetaliev@iaau.edu.kg*</font>
 
 - Kalzira Sabytakunova - <font color="darkred">**Requirement Engineer**</font>                 <font color="green">
 	- *kalzira.sabytakunova@iaau.edu.kg*</font>
-- Zhamiila Kartanbaeva - <font color="darkred">**Tester**</font>
-<font color="green"> 
+- Zhamiila Kartanbaeva - <font color="darkred">**Tester**</font> <font color="green"> 
 	- *zhamiila.kartanbaeva@iaau.edu.kg*</font>
 - Akzholtoi Kanimetova - <font color="darkred">**Designer, Front-End Developer**</font>                 <font color="green">
 	- *akzholtoi.kanimetova@iaau.edu.kg*</font>
-- Nuriddin Kadyrov - <font color="darkred">**Front-End Developer**</font>
-<font color="green"> 
+- Nuriddin Kadyrov - <font color="darkred">**Front-End Developer**</font><font color="green"> 
 	- *nuriddin.kadyrov@iaau.edu.kg*</font>
 
 - Eridan Sarygulov - <font color="darkred">**Back-End Developer**</font>                 <font color="green">

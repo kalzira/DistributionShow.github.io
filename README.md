@@ -53,18 +53,18 @@
 ---
 
 ## Built With
-
+<div>
 - Java EE, Spring Boot Framework, Maven dependencies
 - Spring Security, Thymleaf template engine
 - MySQL DataBase Server
+ </div> 
   
   
-  
-
+<div>
 - HTML5 and CSS3
 - Bootstrap 3
 - JavaScipt
-
+</div>
 
 ## How To Use?
 >Some Screenshots wiil be here
